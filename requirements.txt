@@ -1,0 +1,3 @@
+libopencv-dev
+numpy
+requests
